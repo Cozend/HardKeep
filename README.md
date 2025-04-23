@@ -33,4 +33,4 @@ A Minecraft Spigot plugin that gives your inventory a “checkpoint” every tim
 - You **keep** your Iron Sword, Bread, and Pickaxe.
 - You **drop** the Diamond and Gold Armor.
 
-**Important to note** item amount changes, metadata changes, and similar 
+**Important to note** item amount changes, metadata changes, and similar are also considered when checking for differences, so enchanting, for example, will cause the item to be dropped on death unless you sleep after enchanting, added an exclusion for when durability changes, durability will not be taken into account for item difference checks
