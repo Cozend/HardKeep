@@ -1,4 +1,4 @@
-# 🛏 SleepInventoryKeeper
+# 🛏 Sleep Inventory Keeper
 
 A Minecraft Spigot plugin that gives your inventory a save every time you sleep — protecting items you had at that time from being lost on death, while any new items picked up after sleep will be dropped.
 
