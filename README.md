@@ -34,3 +34,5 @@ A Minecraft Spigot plugin that gives your inventory a “checkpoint” every tim
 - You **drop** the Diamond and Gold Armor.
 
 **Important to note** item amount changes, metadata changes, and similar are also considered when checking for differences, so enchanting, for example, will cause the item to be dropped on death unless you sleep after enchanting, added an exclusion for when durability changes, durability will not be taken into account for item difference checks
+
+**Security** If you have multiple items of the same type, they will also be kept, like two of the same armor pieces, I didn't want to complicate the code, as I didn't want to spend more than an hour or two on this
