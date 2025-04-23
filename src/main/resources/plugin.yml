@@ -1,0 +1,8 @@
+name: HardKeep
+version: 'v0.1'
+main: io.github.cozend.hardKeep.HardKeep
+api-version: '1.21'
+prefix: [ COZ ]
+authors: [ Cozend ]
+description: Keep items that you had when you last slept, and lose everything else
+website: https://github.com/Cozend
